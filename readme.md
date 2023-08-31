@@ -15,3 +15,5 @@ Simplest and most minimal way to connect your users with WalletConnect.
 ## Development
 
 Please follow [developer docs](./.github/docs/development.md) to set up WalletConnect Modal locally.
+
+Quick hack to always open links in a new window
